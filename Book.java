@@ -1,3 +1,5 @@
+// Book class for Library Management System
+
 public class Book {
     private int id;
     private String title;
